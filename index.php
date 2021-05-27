@@ -15,8 +15,8 @@ AIRO CHATBOT
 
 WRITTEN BY SENAL BULUMULLE
 -->
-<head>
 <html>
+<head>
 	<title>AIRO Chatbot</title>
 	<link rel="stylesheet" href="./FOIL-UI.css" type="text/css">
 </head>
