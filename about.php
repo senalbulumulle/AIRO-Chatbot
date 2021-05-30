@@ -14,7 +14,7 @@
 
 
     <div class="FOIL-Layout color-is-blue">
-    <FOIL-Font-Size-14>AIRO Chatbot is a program that makes everything easier.</FOIL-Font-Size-14>
+    <FOIL-Font-Size-14>AIRO-Chatbot is an Ultra-Luxury System that allows students, and staff members at UNF to ask questions about technical issues, or other questions at UNF. </FOIL-Font-Size-14>
     </div>
 </body>
 </html>
