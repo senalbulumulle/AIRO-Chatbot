@@ -1,5 +1,9 @@
 # Change Log
 
+**Release Notes for v.1.0.6.1-beta**
+* Imported FOIL-UI.css v.1.0.1.1.2
+* https://github.com/senalbulumulle/FOIL-UI-Framework-Library/
+
 **Release Notes for v.1.0.6-beta** 
 * Line 28-50 Added Feature to Find Buildings on UNF Campus.
 
