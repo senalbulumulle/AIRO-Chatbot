@@ -1,0 +1,40 @@
+/****************************************************
+*					day.css
+*
+*		This stylesheet allows the interface to 
+*		automatically change to lighter color schemes 
+*		in the day-time, and change to darker colors 
+*		schemes in the night-time. This is followed 
+*		by the ```Auto_Display.js```  file that has 
+*		been imported from FOIL-Home. 
+*
+*
+*
+*
+*
+*
+*
+*
+*****************************************************/
+
+
+
+/* 
+   Import the FOIL-UI.css file to modify the parameters 
+   for this file 
+*/
+
+@import url('./FOIL-UI.css');
+
+
+.FOIL-Navigation-Bar {
+	background-color: rgb(67, 69, 91);
+	color:white;
+}
+
+
+.FOIL-Layout {
+	background-color: rgb(67, 69, 91);
+	color:white;
+}
+

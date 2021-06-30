@@ -1,6 +1,6 @@
 
 
-<div class="FOIL-layout color-is-blue">
+<div class="FOIL-layout">
   <div id="dialogue"></div>
   <form onSubmit="return chatbot.sendMessage()">
     <div class="text-box">
@@ -12,4 +12,4 @@
 </div>
 
 
-<div class="FOIL-Layout color-is-blue"></div>
+<div class="FOIL-Layout"></div>

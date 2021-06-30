@@ -6,12 +6,12 @@ function autoDisplay() {
 
 
     if (7 <= currentClock&&currentClock < 19) {
-     document.write("<link rel='stylesheet' href='../../System_Files/css/day.css' type='text/css'>");
+     document.write("<link rel='stylesheet' href='day.css' type='text/css'>");
     }
 
 
     else {
-     document.write("<link rel='stylesheet' href='../../System_Files/css/night.css' type='text/css'>");
+     document.write("<link rel='stylesheet' href='night.css' type='text/css'>");
     }
 
 

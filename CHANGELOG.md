@@ -1,5 +1,22 @@
 # Change Log
 
+
+
+**Release Notes for v.1.0.10-beta**
+
+* Activated the Auto_Display.js module in AIRO-Chatbot
+
+* Based on Day and Night time, I made a feature that allows the interface 
+  to automatically change to lighter color schemes in the day-time, and 
+  change to darker colors schemes in the night-time. This is followed 
+  by the ```Auto_Display.js```  file that has been imported from 
+  FOIL-Home.
+
+* **FOIL-Home**: https://github.com/foil-os/FOIL-Home
+
+
+
+
 **Release Notes for v.1.0.7-beta**
 * Imported FOIL-UI.css v.2.0
 * https://github.com/senalbulumulle/FOIL-UI-Framework-Library
