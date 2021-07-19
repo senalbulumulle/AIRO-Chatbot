@@ -1,5 +1,10 @@
 # Change Log
 
+**Release Notes for v.1.0.2-beta**
+* Imported FOIL-UI.css v.2.0.1
+* https://github.com/senalbulumulle/FOIL-UI-Framework-Library
+
+
 
 
 **Release Notes for v.1.0.10-beta**
