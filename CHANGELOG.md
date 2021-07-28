@@ -1,4 +1,11 @@
 # Change Log
+**Release Notes for v.1.0.3-beta**
+* Made a greeter, so when the students and staff members use the chat bot, 
+  it will first auto present a greeter, instead automatically 
+  presenting  "ERR: No Reply Matched". 
+
+
+
 
 **Release Notes for v.1.0.2-beta**
 * Imported FOIL-UI.css v.2.0.1
