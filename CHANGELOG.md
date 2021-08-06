@@ -1,4 +1,11 @@
 # Change Log
+**Release Notes for v.1.0.3.1-beta**
+* Imported FOIL-UI.css v.2.0.1.1
+* https://github.com/senalbulumulle/FOIL-UI-Framework-Library
+
+
+
+
 **Release Notes for v.1.0.3-beta**
 * Made a greeter, so when the students and staff members use the chat bot, 
   it will first auto present a greeter, instead automatically 
