@@ -11,6 +11,7 @@
     <div class="FOIL-Navigation-Bar">
     <FOIL-Font-Size-24>About AIRO Chatbot </FOIL-Font-Size-24>
     <a href="index.php" class="FOIL-button-small color-is-green">Back</a>
+    <a href="credits.php" class="FOIL-button-small color-is-red">Credits</a>
     </div>
 
 

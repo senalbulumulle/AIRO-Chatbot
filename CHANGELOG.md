@@ -1,4 +1,15 @@
 # Change Log
+**Release Notes for v.1.0.3.2-beta**
+* Added Credits in the About Application
+* These files are located in: 
+	* "AIRO-Chatbot/about.php"
+	* "AIRO-Chatbot/credits.php"
+
+	
+
+
+
+
 **Release Notes for v.1.0.3.1-beta**
 * Imported FOIL-UI.css v.2.0.1.1
 * https://github.com/senalbulumulle/FOIL-UI-Framework-Library
