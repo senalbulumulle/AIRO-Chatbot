@@ -49,7 +49,8 @@
         <div class="FOIL-Layout">
 			<FOIL-Font-Size-22> jQuery </FOIL-Font-Size-22>
             <li> <b> <a href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" class="FOIL-button-small color-is-green">https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js</a> </b> </li>
-            <li> <b> <a href="" class="FOIL-button-small color-is-green"></a> </b> </li>
+            <li> <b> <a href="https://github.com/jquery/jquery" class="FOIL-button-small color-is-green">https://github.com/jquery/jquery</a> </b> </li>
+            <li> <b> <a href="https://https://jquery.com/" class="FOIL-button-small color-is-green">https://jquery.com/</a> </b> </li>
             <i>
             <pre>
             Copyright OpenJS Foundation and other contributors, https://openjsf.org/
