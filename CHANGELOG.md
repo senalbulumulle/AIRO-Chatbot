@@ -1,4 +1,17 @@
 # Change Log
+**Release Notes for v.1.0.3.3.1-beta**
+* Fixed some bugs in the Credits Section 
+  in the About Application. (Part-2)
+
+* These files are located in: 
+	* "AIRO-Chatbot/about.php"
+	* "AIRO-Chatbot/credits.php"
+
+
+
+
+
+
 **Release Notes for v.1.0.3.3-beta**
 * Fixed some bugs in the Credits Section 
   in the About Application. 
