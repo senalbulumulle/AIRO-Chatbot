@@ -1,4 +1,13 @@
 # Change Log
+**Release Notes for v.1.0.3.3.2-beta**
+* Imported FOIL-UI.css v.2.0.2
+* https://github.com/senalbulumulle/FOIL-UI-Framework-Library/
+
+
+
+
+
+
 **Release Notes for v.1.0.3.3.1-beta**
 * Fixed some bugs in the Credits Section 
   in the About Application. (Part-2)
